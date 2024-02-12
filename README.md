@@ -1,8 +1,12 @@
 <div align="center">
 
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img height="150" src="assets/Logo.gif" />
 <img height="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Front%20End%20Engineer;Individual%20Contributor%20%26%20Team%20Player;Stay%20up-to-date%20with%20industry%20trends&center=true&width=480&height=40">
+
 
 <p align="center">
   <a href="https://github.com/cometdevk?tab=repositories">
