@@ -1,4 +1,4 @@
-<div style = "disply : flex; flex-direction : column; position : relative;">
+<div style = "width : 100%; disply : flex; flex-direction : column; position : relative;">
   <img src = "./assets/name.jpg">
   <img src = "./assets/git.jpg">
   <img src = "./assets/line-effect.gif" style = "filter: hue-rotate(220deg); margin-bottom : 10px;">
